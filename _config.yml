@@ -1,58 +1,36 @@
-# Site settings
-title: "Benjamin Luton Resume"
-description: "GitHub Resume"
+#Update all the sections by editing the data.yml file inside _data folder.
 
-# Build settings
-markdown: kramdown
+# Site Settings
+title: Benjamin Luton Resume
+url: 'https://benjamin.luton.net.au'
+
+#change it according to your repository name
+# disabling since we are using a custom domain
+#baseurl: '/online-cv' 
+
+description: A beautiful Jekyll theme for creating resume
+# Style will be applied only after restarting the build or serve. Just choose one of the options.
+theme_skin: ceramic # blue turquoise green berry orange ceramic
+chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
+
+# Tracker
+analytics: UA-83979019-1
+
+# Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-# Resume settings
-resume_avatar:                  "true"
-resume_name:                    "Benjamin Luton"
-resume_title:                   "Principal Solution Architect"
-resume_contact_email:
-  "benjamin.luton@gmail.com"
+# Build settings
+compress-site: yes
 
-# use "yes" to display the email contact button,
-# "no" to display an "I'm not looking for work" message,
-# or remove the resume_looking_for_work option entirely
-# to leave blank
-resume_looking_for_work:        "yes"
+encoding: "utf-8"
+compress_html: # - http://jch.penibelst.de/
+  clippings: all
+  ignore:
+    envs: development
 
-# Decide which sections to use
-# comment out to hide (Experience is not shown
-# because it is the only required section)
-resume_section_education:       true
-resume_section_projects:        true
-resume_section_skills:          true
-resume_section_recognition:     true
-resume_section_links:           true
-resume_section_associations:    true
-
-# Resume social links
-# uncomment the options you wish to display, and add your own URL
-resume_social_links:
-  resume_github_url:            "https://github.com/Papina"
-  # resume_twitter_url:           "http://twitter.com/jglovier"
-  # resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/benjaminluton/"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://benjamin.luton.net.au"
-
-# Design settings
-resume_theme:                   default
-
-# Note: when editing locally, remember to restart
-# your Jekyll server when you edit this file. Changes
-# to _congif.yml are only recognized when the server starts
-
-accomplishments:
-  output: true
-  permalink: /:collection/:name
-  
-employers:
-  output: true
-  permalink: /:collection/:name
+# Development Settings
+port: 4000
+host: 0.0.0.0
+safe: false

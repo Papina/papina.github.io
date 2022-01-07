@@ -1,0 +1,162 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Benjamin Luton
+    tagline: Principal Solution Architect
+    avatar: avatar.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: benjamin.luton+git@gmail.com
+    phone: 0403 55 00 45
+    website: benjamin.luton.net.au #do not add http://
+    linkedin: benjaminluton
+    github: papina
+    # pdf: https://drive.google.com/file/d/1auix1nFAfEUzxNqFA4R8rZ62uIQUmZR8/view?usp=sharing
+
+    languages:
+      - idiom: English
+        level: Native
+
+career-profile:
+    title: Summary
+    summary: |
+      Principal Cloud Solution Architect with over 20 years of experience. I offer a strong blend of consulting leadership, commercial awareness, and broad technical skills to support a wide variety of customer facing engagements.
+
+      I have proven team management and leadership skills, streamlining the projects and customer engagements in my team to become one of the top AWS Advanced Partners globally for Well-Architected Framework Reviews, Cloud Foundation implementations and Cloud migrations and the AWS Partner of the Year ANZ award for 2021.
+
+      With my leadership, my team has implemented Security, Cost Optimisation, Performance, Reliability and Operational Excellence remediations, migrations and AWS landing zones for hundreds of private Australian, publicly listed and global companies.
+
+education:
+    - degree: AWS Certified Solutions Architect Associate
+      university: Amazon Web Services
+      time: 2020 - Current
+      badge: https://images.credly.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png
+      details: |
+        Associate Level
+    - degree: AWS Certified Cloud Practioner
+      university: Amazon Web Services
+      time: 2020 - Current
+      badge: https://images.credly.com/size/680x680/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png
+      details: |
+        Practitioner Level
+
+    - degree: ITIL Foundation
+      university: Canberra Institute of Technology
+      time: 2003
+      badge: https://images.credly.com/size/680x680/images/6c9b2a4b-91d5-4093-919a-7eb81cfe74ba/ITIL_Foundation.png
+      details: |
+        ITIL Foundation
+    - degree: Diploma of Business Studies in Applied Computing
+      university: Canberra Institute of Technology
+      time: 1997
+      details: |
+        Diploma
+    - degree: Customer Focus
+      university: Canberra Institute of Technology
+      time: 1999
+      details: |
+        Diploma
+
+experiences:
+    - title: Principal Solution Architect
+      role:  Line Manager for Cloud Solutions Projects
+      time: January 2020 - Present
+      company: Itoc, Brisbane
+      details: |
+        Itoc was awarded the Australian Consulting Partner of the Year in October 2021 
+
+        I am the Line Manager of direct reports across Brisbane, Sydney, Adelaide, and India and oversee the completion of an average of 60 concurrent projects to a premium standard of delivery. An average project timeline would be 14-90 days, and overall accounts for over 35% of the business turnover and profits. Itoc customers are currently number 1 for AWS Customer Satisfaction (CSAT)
+
+        I lead and manage a combination of Solution Architect Team Leads, Solution Architects, Solution Consultants and Cloud Engineers. I allocate projects, support, upskill and approve billable and non billable time for the team.
+
+        My role as Line Manager include:
+          - Makes decisions with a customer-centric mindset, and leverages customer feedback to develop Itoc’s service delivery and improve customer experience.
+          - Encourages and promotes innovative thinking, implementing change initiatives and engaging others throughout the change process.
+          - Providing coaching and performance feedback to all team leads and team members
+          - Monitors teams’ performance and takes responsibility for implementing systems and processes that drive achievement of successful outcomes.
+          - Ensuring quality standards for all processes on their team
+          - Anticipates potential challenges, and provides solutions-focused support. Proactively engages internal and external stakeholders to address and overcome challenges.
+          - Maintains a strategic perspective in leading operational functions, identifying opportunities for improvement and growth. Evaluates the long-term sustainability and impact of decisions across the organisation.
+
+        My achievements include:
+          - Increase delivery and successful outcomes for the ‘Cloud Solutions’ team from 5% to 35% over 12 months
+          - Reduce Statement of Work creation time in my team, and increase turnaround and win rate by utilising continuously improving processes
+          - Uplifted the AWS Cloud Landing Zone to be 95-100% compliant with AWS CIS and AWS Foundational Security Best Practices
+          - Create reusable templates and business processes for faster project delivery turnaround
+          - Creating a business tiered pricing model for fixed price engagements
+          - Create easy to understand processes and guidelines to guide new and existing Solution Architects through the project lifecycle and presales engagements
+
+        With my leadership, my team delivers:
+          - Presales - engagements and Statement of Work creation. 
+          - Cloud Foundation - A security compliant AWS multi account landing zone which is 95-100% compliant with multiple security compliant frameworks including PCI-DSS,ISO27001,AWS CIS 1.3. I am responsible for the final reviews of all implementations and documentation for each engagement within my team.
+          - Remediations using AWS Well-Architected Framework - An AWS funded program that is designed to uplift customer environments to best practices. My responsibility is to guide and advise the Solution Architects through the customer engagement process from project kickoff to final project closure, and to review all documentation or implementation.
+          - Migrations - Non AWS Cloud and datacentre migrations to AWS Cloud, ‘Lift and Shift’ and ‘Move and Improve’ migrations which must meet Well-Architected Framework practices
+          - Highest AWS Customer Satisfaction (CSAT) scores in ANZ, which was a critical criteria for winning AWS ANZ Partner of the Year Award 2021
+
+    - title: Solution Architect
+      role: Project Services
+      time: 2019 - January 2020
+      company: Itoc, Brisbane
+      details: |
+        My Role as Solution Architect was:
+        - Presales, Discovery and Statement of Work creations for prospects
+        - New Project Kickoff with stakeholders
+        - Detailed Level Designs
+        - Implementation
+        - Documentation
+        - Handover, Project Closure
+
+    - title: Body Corporate Committee
+      role: Treasurer
+      time: 2018 - Current
+      company: Parkland Apartments
+      details: |
+        I am currently the Treasurer of Building 3, Parklands Residences.
+        My role as executive committee member is a watchdog role for all aspects of financial management, working closely with other committee members to safeguard the finances for 139 lot owners. I am directly responsible for the correct allocation of funds of approximately $2,000,000 annually. I was previously the Secretary
+
+    - title: Senior Database Administrator
+      role: Microsoft Dynamics GP, PostgreSQL Integration
+      time: 2019
+      company: Firstmac
+      details: |
+
+projects:
+    title: Projects
+    intro: >
+      Types of Technical Implementations
+    assignments:
+      - title: AWS Landing Zone
+        link: "#hook"
+        tagline: "An AWS best practice Landing Zone"
+
+      - title: CodePipeline
+        link: "#"
+        tagline: "AWS DevOps Pipelines"
+
+      - title: ECS
+        link: "#"
+        tagline: "Docker"
+
+      - title: Terraform
+        link: "#"
+        tagline: "Infrastructure as Code"
+skills:
+    title: Skills &amp; Proficiency
+    cloud:
+      - name: Amazon Web Services
+        level: 95%
+
+      - name: Oracle
+        level: 65%
+
+      - name: Microsoft Windows Active Directory
+        level: 65%
+
+footer: >
+    Designed by <a href="https://jekyllrb.com/" target="_blank" rel="nofollow">Benjamin Luton</a>
