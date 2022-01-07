@@ -125,6 +125,25 @@ experiences:
       time: 2019
       company: Firstmac
       details: |
+        Convert Microsoft SQL Server to PostgreSQL
+
+    - title: Cloud Technical Consultant
+      role: Industry Verticals
+      time: 2017 - 2019
+      company: TechnologyOne
+      details: |
+        Azure and AWS SaaS Presales
+
+    - title: Technical Consultant
+      role: Financials, Presales
+      time: 2013 - 2017
+      company: TechnologyOne
+
+    - title: Technical Consultant
+      role: Support Level 3
+      time: 2008 - 2013
+      company: TechnologyOne
+
 
 projects:
     title: Projects
@@ -157,6 +176,9 @@ skills:
 
       - name: Microsoft Windows Active Directory
         level: 65%
+
+      - name: Terraform
+        level: 90%
 
 footer: >
     Designed by <a href="https://jekyllrb.com/" target="_blank" rel="nofollow">Benjamin Luton</a>
