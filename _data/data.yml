@@ -125,14 +125,14 @@ experiences:
       time: 2019
       company: Firstmac
       details: |
-        Convert Microsoft SQL Server to PostgreSQL
+        - Convert Microsoft SQL Server to PostgreSQL
 
     - title: Cloud Technical Consultant
       role: Industry Verticals
       time: 2017 - 2019
       company: TechnologyOne
       details: |
-        Azure and AWS SaaS Presales
+        - Azure and AWS SaaS Presales
 
     - title: Technical Consultant
       role: Financials, Presales
@@ -165,6 +165,7 @@ projects:
       - title: Terraform
         link: "#"
         tagline: "Infrastructure as Code"
+
 skills:
     title: Skills &amp; Proficiency
     cloud:
