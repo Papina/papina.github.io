@@ -61,7 +61,7 @@ education:
     - degree: ITIL Foundation
       university: Canberra Institute of Technology
       time: 2003
-      badge: ITIL_Foundation.png
+      badge: /assets/images/ITIL_Foundation.png
       details: |
         ITIL Foundation
     - degree: Diploma of Business Studies in Applied Computing
