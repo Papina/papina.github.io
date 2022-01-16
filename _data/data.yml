@@ -36,25 +36,25 @@ education:
     - degree: AWS Certified Solutions Architect Associate
       university: Amazon Web Services
       time: 2020 - Current
-      badge: {{ site.baseurl }}/assets/images/aws-certified-solutions-architect-assoc.png
+      badge: /assets/images/aws-certified-solutions-architect-assoc.png
       details: |
         Associate Level
     - degree: 'HashiCorp Certified: Terraform Associate'
       university: HashiCorp
       time: 2022 - Current
-      badge: hashicorp-certified-terraform-associate.png
+      badge: /assets/images/hashicorp-certified-terraform-associate.png
       details: |
         Associate Level
     - degree: C3 Certified Partner Business and Technology
       university: CloudChomp
       time: 2020 - Current
-      badge: cloud-chomp-certified.png
+      badge: /assets/images/cloud-chomp-certified.png
       details: |
         Partner Level
     - degree: AWS Certified Cloud Practioner
       university: Amazon Web Services
       time: 2020 - Current
-      badge: aws-certified-cloud-practioner.png
+      badge: /assets/images/aws-certified-cloud-practioner.png
       details: |
         Practitioner Level
 
