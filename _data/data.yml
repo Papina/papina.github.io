@@ -36,7 +36,7 @@ education:
     - degree: AWS Certified Solutions Architect Associate
       university: Amazon Web Services
       time: 2020 - Current
-      badge: aws-certified-solutions-architect-assoc.png
+      badge: {{ site.baseurl }}/assets/images/aws-certified-solutions-architect-assoc.png
       details: |
         Associate Level
     - degree: 'HashiCorp Certified: Terraform Associate'
