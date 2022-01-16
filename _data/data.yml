@@ -36,20 +36,32 @@ education:
     - degree: AWS Certified Solutions Architect Associate
       university: Amazon Web Services
       time: 2020 - Current
-      badge: https://images.credly.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png
+      badge: aws-certified-solutions-architect-assoc.png
       details: |
         Associate Level
+    - degree: 'HashiCorp Certified: Terraform Associate'
+      university: HashiCorp
+      time: 2022 - Current
+      badge: hashicorp-certified-terraform-associate.png
+      details: |
+        Associate Level
+    - degree: C3 Certified Partner Business and Technology
+      university: CloudChomp
+      time: 2020 - Current
+      badge: cloud-chomp-certified.png
+      details: |
+        Partner Level
     - degree: AWS Certified Cloud Practioner
       university: Amazon Web Services
       time: 2020 - Current
-      badge: https://images.credly.com/size/680x680/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png
+      badge: aws-certified-cloud-practioner.png
       details: |
         Practitioner Level
 
     - degree: ITIL Foundation
       university: Canberra Institute of Technology
       time: 2003
-      badge: https://images.credly.com/size/680x680/images/6c9b2a4b-91d5-4093-919a-7eb81cfe74ba/ITIL_Foundation.png
+      badge: ITIL_Foundation.png
       details: |
         ITIL Foundation
     - degree: Diploma of Business Studies in Applied Computing
